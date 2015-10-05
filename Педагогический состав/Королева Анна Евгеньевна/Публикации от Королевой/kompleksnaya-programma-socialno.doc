@@ -1,0 +1,4 @@
+
+Warning: fopen(../uploads/files/1422006662_kompleksnaya-programma-socialno.doc): failed to open stream: No such file or directory in /home/n0004887/domains/ozpec.ru/public_html/engine/classes/download.class.php on line 101
+
+Warning: fseek(): supplied argument is not a valid stream resource in /home/n0004887/domains/ozpec.ru/public_html/engine/classes/download.class.php on line 102
